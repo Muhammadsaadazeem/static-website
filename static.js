@@ -8,5 +8,5 @@ function submitForm() {
         alert("Form submitted successfully!");
         // Here, you can implement form submission logic like sending to a server
         document.getElementById("contactForm").reset();
-   }
+    }
 }
